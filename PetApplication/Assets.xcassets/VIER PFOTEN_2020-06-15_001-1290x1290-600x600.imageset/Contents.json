@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "VIER PFOTEN_2020-06-15_001-1290x1290-600x600.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

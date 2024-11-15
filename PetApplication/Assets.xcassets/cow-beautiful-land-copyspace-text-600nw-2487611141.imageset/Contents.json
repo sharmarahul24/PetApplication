@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cow-beautiful-land-copyspace-text-600nw-2487611141.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
